@@ -1,0 +1,46 @@
+.cont{
+    width: auto;
+    border: 1px;
+    border-style: dashed;
+    padding: 10px 10px 10px 10px;
+    font-size: 130%;
+    margin: 10px;
+    background-color: white;
+    
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url("pic/81xlYmGLnoL._SX3000_.jpg");
+}
+.tit1{
+    margin: 10px;
+    
+}
+.b1{
+    display: flex;
+    left: 0px;
+    right: 0px;
+    padding: 0px;
+    margin: 0px;
+    outline: 0px;
+    border: 0px;
+}
+.img1{
+    width: auto;
+    max-width: 125px;
+}
+.img2{
+    width: 270px;
+}
+.ele1{
+    display: flex;
+    width: auto;
+    font-size: 55%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.imgbx{
+    margin: 5px;
+}
+a{
+
+}
