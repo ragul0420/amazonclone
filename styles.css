@@ -1,7 +1,6 @@
 .cont{
     width: auto;
-    border: 1px;
-    border-style: dashed;
+
     padding: 10px 10px 10px 10px;
     font-size: 130%;
     margin: 10px;
@@ -30,7 +29,8 @@ body {
     max-width: 125px;
 }
 .img2{
-    width: 270px;
+    width: auto;
+    max-width: 285px;
 }
 .ele1{
     display: flex;
